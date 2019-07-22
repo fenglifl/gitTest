@@ -9,7 +9,7 @@ public enum TestEnum {
         this.desc = desc;
     }
 
-    private static int getCodeByDesc(String desc) {
+    public static int getCodeByDesc(String desc) {
         for (TestEnum testEnum : TestEnum.values()) {
             if (testEnum.desc.equals(desc)) {
                 return testEnum.code;
@@ -18,7 +18,7 @@ public enum TestEnum {
         return 0;
     }
 
-    private static String getDescByCode(int code) {
+    public static String getDescByCode(int code) {
         for (TestEnum testEnum : TestEnum.values()) {
             if (testEnum.code == code) {
                 return testEnum.desc;
