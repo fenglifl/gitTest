@@ -10,5 +10,6 @@ public class Test4 {
 
     public static void sdff() {
         System.out.println("dwfcewcmwifje");
+        TestEnum testEnum[]=TestEnum.values();
     }
 }
