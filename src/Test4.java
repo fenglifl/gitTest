@@ -20,4 +20,7 @@ public class Test4 {
     public void test1(){
         System.out.println("dkfidjo");
     }
+    public void djoij(){
+        System.out.println("dfjofj");
+    }
 }
