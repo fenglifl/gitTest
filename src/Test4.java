@@ -17,4 +17,7 @@ public class Test4 {
     public void sd(){
         System.out.println("sdsdsdsdsdsds.......");
     }
+    public void test1(){
+        System.out.println("dkfidjo");
+    }
 }
