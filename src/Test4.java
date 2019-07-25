@@ -14,4 +14,7 @@ public class Test4 {
         i=true?1:2;
         TestEnum testEnum[]=TestEnum.values();
     }
+    public void sd(){
+        System.out.println("sdsdsdsdsdsds.......");
+    }
 }
