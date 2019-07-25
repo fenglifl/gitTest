@@ -23,4 +23,10 @@ public class Test4 {
     public void djoij(){
         System.out.println("dfjofj");
     }
+    public void ddd(){
+        System.out.println("jdeiowfjowei/...");
+    }
+    public void dsfef(){
+        System.out.println("jiewjfw");
+    }
 }
