@@ -29,4 +29,8 @@ public class Test4 {
     public void dsfef(){
         System.out.println("jiewjfw");
     }
+    public void sjwdhsu(){
+        System.out.println("测试一........");
+    }
+
 }
