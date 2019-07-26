@@ -35,4 +35,7 @@ public class Test4 {
     public void test2(){
         System.out.println("测试二........");
     }
+    public void test3(){
+        System.out.println("测试三.........");
+    }
 }

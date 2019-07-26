@@ -17,8 +17,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+            <state relative-caret-position="280">
+              <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
               <folding>
                 <element signature="e#51#52#0" expanded="true" />
                 <element signature="e#105#106#0" expanded="true" />
@@ -35,7 +35,11 @@
                 <element signature="e#686#687#0" expanded="true" />
                 <element signature="e#731#732#0" expanded="true" />
                 <element signature="e#758#759#0" expanded="true" />
-                <element signature="e#794#795#0" expanded="true" />
+                <element signature="e#807#808#0" expanded="true" />
+                <element signature="e#832#833#0" expanded="true" />
+                <element signature="e#881#882#0" expanded="true" />
+                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#942#943#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -44,7 +48,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Test3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
+            <state relative-caret-position="224">
               <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
               <folding>
                 <element signature="e#64#65#0" expanded="true" />
@@ -80,7 +84,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
   </component>
@@ -123,8 +127,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -322,11 +326,25 @@
       <option name="project" value="LOCAL" />
       <updated>1563777521592</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="测试2">
+      <created>1564107691946</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1564107691946</updated>
+    </task>
+    <task id="LOCAL-00022" summary="测试修改Test3&#10;&#10;(cherry picked from commit ef228dfd1fdce5034dc48d16b11dc9bed286ed1a)">
+      <created>1564107746840</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1564107746840</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15504000" />
+    <option name="totallyTimeSpent" value="15526000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -440,7 +458,8 @@
     <MESSAGE value="1" />
     <MESSAGE value="修改" />
     <MESSAGE value="测试2" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试2" />
+    <MESSAGE value="测试修改Test3&#10;&#10;(cherry picked from commit ef228dfd1fdce5034dc48d16b11dc9bed286ed1a)" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试修改Test3&#10;&#10;(cherry picked from commit ef228dfd1fdce5034dc48d16b11dc9bed286ed1a)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/GitTest.java">
@@ -470,8 +489,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        <state relative-caret-position="280">
+          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
           <folding>
             <element signature="e#51#52#0" expanded="true" />
             <element signature="e#105#106#0" expanded="true" />
@@ -488,14 +507,18 @@
             <element signature="e#686#687#0" expanded="true" />
             <element signature="e#731#732#0" expanded="true" />
             <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#942#943#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
+        <state relative-caret-position="224">
           <caret line="8" column="63" selection-start-line="8" selection-start-column="63" selection-end-line="8" selection-end-column="63" />
           <folding>
             <element signature="e#64#65#0" expanded="true" />
