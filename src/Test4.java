@@ -32,5 +32,7 @@ public class Test4 {
     public void sjwdhsu(){
         System.out.println("测试一........");
     }
-
+    public void test2(){
+        System.out.println("测试二........");
+    }
 }
