@@ -1,3 +1,7 @@
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+
 public class Test4 {
 
     public static void dod() {
@@ -34,5 +38,16 @@ public class Test4 {
     }
     public void test2(){
         System.out.println("测试二........");
+    }
+    public void test3(){
+        System.out.println("测试三.........");
+    }
+    public void testbgbg(){
+        List<OrderDTO> orderDTOList=new ArrayList<>();
+        OrderDTO orderDTO=new OrderDTO();
+        orderDTO.setOrderSn(123L);
+        orderDTO.setOrderStatus("待支付");
+        orderDTOList.add(orderDTO);
+        List<Long> orderSnList=orderDTOList.stream().map(orderDTO1 -> orderDTO.getOrderSn()).collect(Collectors.toList());
     }
 }
