@@ -38,4 +38,8 @@ public class Test4 {
     public void test3(){
         System.out.println("测试三.........");
     }
+    public void diojeif(){
+        int count =1;
+        System.out.println("xjwdifji"+count);
+    }
 }
