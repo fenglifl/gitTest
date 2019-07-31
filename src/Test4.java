@@ -49,5 +49,6 @@ public class Test4 {
         orderDTO.setOrderStatus("待支付");
         orderDTOList.add(orderDTO);
         List<Long> orderSnList=orderDTOList.stream().map(orderDTO1 -> orderDTO.getOrderSn()).collect(Collectors.toList());
+        System.out.println(orderSnList);
     }
 }
