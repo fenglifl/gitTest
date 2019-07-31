@@ -26,4 +26,7 @@ public enum TestEnum {
         }
         return null;
     }
+    public void dew(){
+        System.out.println("kdwji");
+    }
 }

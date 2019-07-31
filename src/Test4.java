@@ -15,40 +15,53 @@ public class Test4 {
     public static void sdff() {
         System.out.println("dwfcewcmwifje");
         int i;
-        i=true?1:2;
-        TestEnum testEnum[]=TestEnum.values();
+        i = true ? 1 : 2;
+        TestEnum testEnum[] = TestEnum.values();
     }
-    public void sd(){
+
+    public void sd() {
         System.out.println("sdsdsdsdsdsds.......");
     }
-    public void test1(){
+
+    public void test1() {
         System.out.println("dkfidjo");
     }
-    public void djoij(){
+
+    public void djoij() {
         System.out.println("dfjofj");
     }
-    public void ddd(){
+
+    public void ddd() {
         System.out.println("jdeiowfjowei/...");
     }
-    public void dsfef(){
+
+    public void dsfef() {
         System.out.println("jiewjfw");
     }
-    public void sjwdhsu(){
+
+    public void sjwdhsu() {
         System.out.println("测试一........");
     }
-    public void test2(){
+
+    public void test2() {
         System.out.println("测试二........");
     }
-    public void test3(){
+
+    public void test3() {
         System.out.println("测试三.........");
     }
-    public void testbgbg(){
-        List<OrderDTO> orderDTOList=new ArrayList<>();
-        OrderDTO orderDTO=new OrderDTO();
+
+    public void testbgbg() {
+        List<OrderDTO> orderDTOList = new ArrayList<>();
+        OrderDTO orderDTO = new OrderDTO();
         orderDTO.setOrderSn(123L);
         orderDTO.setOrderStatus("待支付");
         orderDTOList.add(orderDTO);
-        List<Long> orderSnList=orderDTOList.stream().map(orderDTO1 -> orderDTO.getOrderSn()).collect(Collectors.toList());
+        List<Long> orderSnList = orderDTOList.stream().map(orderDTO1 -> orderDTO.getOrderSn()).collect(Collectors.toList());
         System.out.println(orderSnList);
+    }
+    public void dde(){
+        int count = 1;
+        System.out.println("xjwdifji" + count);
     }
 }
