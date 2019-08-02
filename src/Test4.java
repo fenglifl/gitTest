@@ -5,6 +5,6 @@ public class Test4 {
         int i;
         i=true?1:2;
         TestEnum testEnum[]=TestEnum.values();
-        System.out.println("qqqqsaxasq");
+        System.out.println("qqqqsdwadaxasq");
     }
 }
