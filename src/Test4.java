@@ -23,22 +23,6 @@ public class Test4 {
         System.out.println("sdsdsdsdsdsds.......");
     }
 
-    public void test1() {
-        System.out.println("dkfidjo");
-    }
-
-    public void djoij() {
-        System.out.println("dfjofj");
-    }
-
-    public void ddd() {
-        System.out.println("jdeiowfjowei/...");
-    }
-
-    public void dsfef() {
-        System.out.println("jiewjfw");
-    }
-
     public void sjwdhsu() {
         System.out.println("测试一........");
     }
